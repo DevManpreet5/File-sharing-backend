@@ -1,8 +1,8 @@
 # File Sharing Backend
 
-![Home Page](home.png)
-![Uploaded File](uploaded-file.png)
-![No Access](no-access.png)
+![Home Page](images/home.png)
+![Uploaded File](images/roadmap.png)
+![No Access](images/no-access.png)
 
 This Node.js backend application provides file sharing capabilities using Multer for file uploads, JWT for authentication, and features for private/public file sharing with short URLs.
 
